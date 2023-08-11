@@ -4,5 +4,5 @@
 ##### It was implemented using pygame and OOP :)
 
 
-https://github.com/ERoydev/Algorithms-visualization-pathfinder/assets/125214785/6a2c1ea0-7fd4-44a6-8caf-e3a5f9303ab6
+
 
